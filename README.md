@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there I am Selva. Intrested in Data Science👋
 
 <!--
 **geoselva/geoselva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
